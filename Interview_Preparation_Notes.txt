@@ -1,0 +1,56 @@
+Goal: Attend interviews
+
+What you should have?
+1. Resume / LinkedIn profile
+2. Covering Letter
+3. Apply jobs
+
+Resume Preparation tips:
+------------------------
+1. Build the content first -> own content
+2. Apply the content to a specific template (novoresume.com)
+3. Resume and LinkedIn profile should look alike
+4. Validate the resume with ATS (Applicant tracking system) scanner
+   (resumeworded.com)
+5. Evaluate your resume against JD using cvwolf.com
+
+Resume Sections:
+-----------------
+1. About yourself: 2 liner !!
+2. Experience:  Company|Designation|Timeline   
+3. Roles and Responsibilities
+4. Projects
+		Desc: 2 liner
+		Accomplishments to make project successful
+		2-3 years for 1 project
+5. Certifications
+6. Skills
+		Manual Teting, Agile (Scrum), SQL, Java, JavaScript
+		Selenium WebDriver,	TestNG, Cucumber, Framework (Hybrid)
+		Rest API, RestAssured, Postman, Jenkins
+7. Education Detail
+8. Awards & Contribution	
+
+Useful Tools:
+==============
+https://novoresume.com/ -> Resume building
+https://resumeworded.com/ -> To Evaluate your profile against key 
+			    criteria that ATS look for (30-40% score)
+https://cvwolf.com/ -> to check your profile matches with JD
+		      (70% need to achieve)
+					  
+					  
+
+https://novoresume.com/career-blog/cover-letter-examples
+
+LinkedIn Job Search Strategy:
+1. Search using boolean keywords (OR, AND)
+2. Search by Experience
+3. Search by Recent (day/week)
+4. Apply (EasyApply | Apply in portal)
+
+Search Jobs through Posts:
+1. Search using boolean keywords
+2. Sort by the latest
+3. Search by Recent (day/week)
+4. Look for people how post jobs
